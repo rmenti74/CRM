@@ -1,0 +1,10 @@
+D:\Workspace\Apps\CRM\CRM_db\bin\Debug\CRM_db.dacpac
+D:\Workspace\Apps\CRM\CRM_db\bin\Debug\CRM_db.dll
+D:\Workspace\Apps\CRM\CRM_db\bin\Debug\CRM_db.pdb
+D:\Workspace\Apps\CRM\CRM_db\obj\Debug\CRM_db.sqlproj.AssemblyReference.cache
+D:\Workspace\Apps\CRM\CRM_db\obj\Debug\Model.xml
+D:\Workspace\Apps\CRM\CRM_db\obj\Debug\refactor.xml
+D:\Workspace\Apps\CRM\CRM_db\obj\Debug\postdeploy.sql
+D:\Workspace\Apps\CRM\CRM_db\obj\Debug\predeploy.sql
+D:\Workspace\Apps\CRM\CRM_db\obj\Debug\CRM_db.dll
+D:\Workspace\Apps\CRM\CRM_db\obj\Debug\CRM_db.pdb
